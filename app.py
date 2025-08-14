@@ -13,7 +13,7 @@ GREEN = "#138808"
 
 # Patriotic messages
 messages = [
-    "🇮🇳 Be the change you wish to see in Bharat.",
+   "🇮🇳 Be the change you wish to see in Bharat.",
     "🇮🇳 Our freedom was not gifted, it was earned — cherish it.",
     "🇮🇳 Serve your country in every little act you do.",
     "🇮🇳 A nation's strength lies in its unity.",
@@ -32,7 +32,36 @@ messages = [
     "🇮🇳 Respect the land that gave you your identity.",
     "🇮🇳 Our freedom story is written in the ink of sacrifice.",
     "🇮🇳 Bharat Mata’s blessings are with the devoted.",
-    "🇮🇳 Let unity be our power and diversity our beauty."
+    "🇮🇳 Let unity be our power and diversity our beauty.",
+    "🇮🇳 Protect nature — it’s the soul of our motherland.",
+    "🇮🇳 Let’s build a future worthy of our ancestors.",
+    "🇮🇳 A true patriot works even when no one is watching.",
+    "🇮🇳 Speak the truth, live the truth — that’s patriotism.",
+    "🇮🇳 Our flag waves high because of our unity.",
+    "🇮🇳 Every sunrise in Bharat is a call to do better.",
+    "🇮🇳 Service to the nation is service to God.",
+    "🇮🇳 A country’s greatness begins with its people.",
+    "🇮🇳 Your character is your gift to the nation.",
+    "🇮🇳 Every citizen is a guardian of the nation’s soul.",
+    "🇮🇳 Stand tall, for you belong to a land of legends.",
+    "🇮🇳 Education is the weapon to defend our freedom.",
+    "🇮🇳 Our roots are deep — let our branches be strong.",
+    "🇮🇳 Peace is the truest form of patriotism.",
+    "🇮🇳 Nation first, always.",
+    "🇮🇳 Heroes are not born, they are made by their country.",
+    "🇮🇳 Freedom is precious — guard it.",
+    "🇮🇳 Every good deed strengthens the nation.",
+    "🇮🇳 Together, we rise.",
+    "🇮🇳 The future belongs to those who serve it.",
+    "🇮🇳 Patriotism is love in action.",
+    "🇮🇳 A strong Bharat starts with strong citizens.",
+    "🇮🇳 Pride in our land, honor in our hearts.",
+    "🇮🇳 The flag is the heart of the nation.",
+    "🇮🇳 Sacrifice today for a better tomorrow.",
+    "🇮🇳 You are the future of Bharat — build it well.",
+    "🇮🇳 Be fearless, be selfless, be patriotic.",
+    "🇮🇳 Every step for the nation counts.",
+    "🇮🇳 Our diversity is our strength.",
 ]
 
 def leap_years_count(start_year, end_year):
