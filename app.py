@@ -61,9 +61,10 @@ now = datetime.now()
 independence_day = datetime(1947, 8, 15)
 
 # Independence years
-independence_years = now.year - 1947
+independence_years = now.year - 1947 + 1  # +1 because 1947 is counted as Year 1
 if (now.month, now.day) < (8, 15):
     independence_years -= 1
+
 
 # Life stats
 years_completed = now.year - birth_date.year
